@@ -1,7 +1,10 @@
 {
-    "id": "obsidian-range-calendar",
-    "name": "Custom Range Calendar",
-    "author": "vitaCasanova",
-    "description": "Minimal calendar with range selection and vertical split tags",
-    "repo": "vitaCasanova/obsidian-range-calendar"
-  }
+  "id": "obsidian-range-calendar",
+  "name": "Custom Range Calendar",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Minimal calendar with range selection and vertical split tags",
+  "author": "vitaCasanova",
+  "authorUrl": "https://github.com/vitaCasanova",
+  "isDesktopOnly": false
+}
